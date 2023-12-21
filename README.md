@@ -21,14 +21,22 @@ Entrainement et test de modeles (résultat 100000 lignes):
 
 - Modèle RandomForest
 
-
-
-Test des paramètres XGBoost : 
 ![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/2f4d6f9b-3186-4a84-a880-a0c8cb1a105b)
 
-![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/6ccde1e8-1cd7-49a3-bf54-b3b8231457a9)
 
 - Modèle XGBoost
 
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/6ccde1e8-1cd7-49a3-bf54-b3b8231457a9)
+
+
+
+
+
+Test des paramètres XGBoost : 
+
+
 ![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/b4cb1282-685d-48b3-b106-865d04b40d61)
+
+
+
 
