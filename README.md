@@ -1,4 +1,4 @@
-![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/4df3e31e-6516-44bd-9b7a-03791f1a9db0)To do list feature engineering: 
+To do list feature engineering: 
 - ajouter les prix de l'electricité
 - ajouter dans df_train une ligne pour chaque client
 - ajouter la moyenne des prix du gas
@@ -6,10 +6,19 @@
 - découper le "datetime" pour avoir "day", "month", "year", "hour"
 
 
-Entrainement et test de modeles : 
+Entrainement et test de modeles (résultat 100000 lignes): 
+- Modèle dumpy
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/a5c05da5-7a19-49a0-87a8-de798e9cc106)
+
 - Modèle regression linéaire
-  ![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/379c2be4-52c4-43e5-beb2-8c191b2a8a58)
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/8b9b98b1-6954-4f6c-862d-e8c941487ec1)
 
 - Modèle Lasso
-- Modèle RandomForest 
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/0d9d4014-32e6-4af8-87d7-60bf91dbc189)
+
+- Modèle RandomForest
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/6ccde1e8-1cd7-49a3-bf54-b3b8231457a9)
+
 - Modèle XGBoost
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/b4cb1282-685d-48b3-b106-865d04b40d61)
+
