@@ -23,9 +23,6 @@ Entrainement et test de modeles (résultat 100000 lignes):
 
 
 
-![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/b4cb1282-685d-48b3-b106-865d04b40d61)
-
-
 - Modèle XGBoost
 
 ![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/6ccde1e8-1cd7-49a3-bf54-b3b8231457a9)
