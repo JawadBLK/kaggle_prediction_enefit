@@ -33,7 +33,10 @@ Test des paramètres XGBoost :
 
 
 
-
-
 ![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/2f4d6f9b-3186-4a84-a880-a0c8cb1a105b)
+
+resultats : 
+
+![image](https://github.com/JawadBLK/kaggle_prediction_enefit/assets/100697289/f38439af-5ae6-437a-8ce2-a4bfb7aa4329)
+
 
